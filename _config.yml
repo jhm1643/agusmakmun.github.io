@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://jhm.github.io"
+url: "https://jhm1643.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
