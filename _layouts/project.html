@@ -45,7 +45,7 @@ layout: default
             <div class="tag-holder">
               {% if i.tags %}
                 {% for j in i.tags %}
-                  <span class="tags tag-filter" data-tag="{{ j | downcase }}"><a href="#{{ j }}">{{ j }}</a></span>
+                  <span class="tags tag-filter" data-tag="{{ j | downcase }}"></span>
                 {% endfor %}
               {% endif %}
             </div>
