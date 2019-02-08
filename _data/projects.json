@@ -5,5 +5,12 @@
 		"url": "https://www.google.com",
 		"date": "Fav 2018",
 		"tags": ["spring"]
+	},
+	{
+		"slug": "algorism",
+		"name": "algorism",
+		"url": "https://www.google.com",
+		"date": "Fav 2018",
+		"tags": ["algorism"]
 	}
 ]
