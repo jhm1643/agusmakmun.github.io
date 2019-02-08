@@ -1,8 +1,7 @@
 [
 	{
 		"slug": "Spring Project",
-		"name": "Spring mybatis 게시판 예제",
-		"image": "",
+		"name": "Spring 게시판",
 		"url": "https://www.google.com",
 		"date": "Fav 2018",
 		"tags": ["spring"]
